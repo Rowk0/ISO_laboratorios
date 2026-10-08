@@ -1,0 +1,304 @@
+Iniciando proceso
+
+Letra: H
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: P
+ Tiempo generacion: 0.000000
+ Delay: 0.00
+Letra: W
+ Tiempo generacion: 0.000000
+ Delay: 0.00
+Letra: V
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: P
+ Tiempo generacion: 0.000000
+ Delay: 0.00
+Letra: Z
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: U
+ Tiempo generacion: 0.000000
+ Delay: 0.00
+Letra: M
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: R
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: Y
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: Y
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: F
+ Tiempo generacion: 0.000000
+ Delay: 0.00
+Letra: K
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: D
+ Tiempo generacion: 0.000000
+ Delay: 0.00
+Letra: R
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: K
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: B
+ Tiempo generacion: 0.000000
+ Delay: 0.00
+Letra: S
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: K
+ Tiempo generacion: 0.000000
+ Delay: 0.00
+Letra: J
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: I
+ Tiempo generacion: 0.000000
+ Delay: 0.00
+Letra: D
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: H
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: F
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: I
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: P
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: K
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: Q
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: U
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: S
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: G
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: B
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: H
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: C
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: W
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: W
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: D
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: T
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: I
+ Tiempo generacion: 0.000000
+ Delay: 0.00
+Letra: U
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: T
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: I
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: C
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: F
+ Tiempo generacion: 0.000012
+ Delay: 0.00
+Letra: L
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: V
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: R
+ Tiempo generacion: 0.000006
+ Delay: 0.00
+Letra: O
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: N
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Letra: B
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: Y
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: W
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Letra: G
+ Tiempo generacion: 0.000005
+ Delay: 0.00
+Letra: F
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: B
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: O
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: W
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: N
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: E
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Letra: Q
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: F
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Letra: L
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: U
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: M
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: P
+ Tiempo generacion: 0.000005
+ Delay: 0.00
+Letra: Q
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Letra: K
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Letra: T
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Letra: L
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: U
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: P
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: G
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: D
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: T
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: N
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: Q
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Letra: P
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Letra: E
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: F
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Letra: E
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: F
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: D
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: C
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: L
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: I
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: G
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: C
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: G
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: T
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: I
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: X
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: Z
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: V
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: R
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Letra: N
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: L
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: J
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: Y
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Letra: G
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Letra: X
+ Tiempo generacion: 0.000044
+ Delay: 0.00
+
+Proceso terminado

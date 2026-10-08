@@ -1,0 +1,304 @@
+Iniciando proceso
+
+Generacion: H5
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: W3
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: P7
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: U4
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: R8
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: Y9
+ Tiempo generacion: 0.000019
+ Delay: 0.00
+Generacion: K9
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: R6
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: B6
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: K7
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: I7
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: H9
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: I5
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: K4
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: U0
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: G1
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: H2
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: W4
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: D5
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: I4
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: T2
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: C9
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: L9
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: R4
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: N3
+ Tiempo generacion: 0.000005
+ Delay: 0.00
+Generacion: Y2
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: G7
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: B4
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: W9
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: E4
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: F7
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: U4
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: P2
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: K3
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: L0
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: P6
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: D7
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: N6
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: P4
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: F4
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: F3
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: C9
+ Tiempo generacion: 0.000005
+ Delay: 0.00
+Generacion: I2
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: C6
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: T6
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: X1
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: V9
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: N7
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: J8
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: G5
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: S1
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: F3
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: P1
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: O8
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: Z1
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: K5
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: W1
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: S6
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: V4
+ Tiempo generacion: 0.000005
+ Delay: 0.00
+Generacion: M6
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: F5
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: P8
+ Tiempo generacion: 0.000005
+ Delay: 0.00
+Generacion: C7
+ Tiempo generacion: 0.000005
+ Delay: 0.00
+Generacion: N0
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: D9
+ Tiempo generacion: 0.000006
+ Delay: 0.00
+Generacion: N5
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: R0
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: T2
+ Tiempo generacion: 0.000030
+ Delay: 0.00
+Generacion: N1
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: O1
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: C4
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: U6
+ Tiempo generacion: 0.000004
+ Delay: 0.00
+Generacion: P6
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: E2
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: L4
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: Z4
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: C0
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: U6
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: T0
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: W4
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: F5
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: U2
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: E3
+ Tiempo generacion: 0.000025
+ Delay: 0.00
+Generacion: G1
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: Y6
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: G6
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: X4
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: A8
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: R8
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: X4
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: W2
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: W4
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: O2
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: J2
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: E1
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: I6
+ Tiempo generacion: 0.000003
+ Delay: 0.00
+Generacion: R0
+ Tiempo generacion: 0.000002
+ Delay: 0.00
+Generacion: K9
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: T5
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+Generacion: O1
+ Tiempo generacion: 0.000001
+ Delay: 0.00
+
+Proceso terminado
