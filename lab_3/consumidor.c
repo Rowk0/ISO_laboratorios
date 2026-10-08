@@ -4,18 +4,20 @@
 #include <sys/msg.h>
 #define MAX_CHAR 100
 #define CLAVE 246
+#define MAX_DATOS 105
 
 //gcc consumidor.c -o ./consumidor.out && ./consumidor.out
 
-struct 
+typedef struct  
 {
     long tipo;
     char cadena[MAX_CHAR];
-} mensaje;
+} mensaje_;
 
 
 int main()
 {
+    mensaje_ mensaje;
     int msqid;
     int longitud = sizeof(mensaje) - sizeof(mensaje.tipo);
 
@@ -28,14 +30,17 @@ int main()
     }
 
     //Recepcion del mensaje
-    
-    if (msgrcv(msqid, &mensaje, longitud, 1, 0) == -1)
-    {
-        printf("Error al leer un mensaje en la cola de mensajes\n");
-        exit(-1);
-    }
 
-    printf("El mensaje leido en consumidor es: %s\n", mensaje.cadena);
+    for (int i = 0; i < MAX_DATOS; i++)
+    {
+        if (msgrcv(msqid, &mensaje, longitud, 1, 0) == -1)
+        {
+            printf("Error al leer un mensaje en la cola de mensajes\n");
+            exit(-1);
+        }
+
+        printf("[CONSUMIDOR]: %s\n", mensaje.cadena);
+    }
     
     //borrado de cola de mensajes
 

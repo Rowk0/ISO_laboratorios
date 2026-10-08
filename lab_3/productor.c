@@ -2,22 +2,27 @@
 #include <stdlib.h>
 #include <string.h>
 #include <sys/msg.h>
+#include <time.h>
+#include <unistd.h>
 #define MAX_CHAR 100
 #define CLAVE 246
+#define MAX_DATOS 105
 
 //gcc productor.c -o ./productor.out && ./productor.out
 
-struct 
+typedef struct 
 {
     long tipo;
     char cadena[MAX_CHAR];
-} mensaje;
-
+} mensaje_;
 
 int main()
 {
+    mensaje_ mensaje;
     int msqid;
     int longitud = sizeof(mensaje) - sizeof(mensaje.tipo);
+
+    srand(time(NULL));
 
     //Creando la cola de mensajes
     //Cuando está entre parentesis una asignacion, tiene mayor prioridad que una comparacion (==)
@@ -28,21 +33,30 @@ int main()
         exit(-1);
     }
 
-    //Preparacion de mensaje
-    
-    mensaje.tipo = 1;
-    strcpy(mensaje.cadena, "Hola, soy Rodriguez");
+    printf("Productor iniciado, enviando %d datos\n", MAX_DATOS);
 
-    printf("Mensaje enviado desde productor: %s\n", mensaje.cadena);
-
-    // Envio de mensaje a la cola clave 246
-
-    if (msgsnd(msqid, &mensaje, longitud, 0) == -1)
+    for (int i = 0; i < MAX_DATOS; i++)
     {
-        printf("Error al enviar el mensaje a la cola de mensajes");
-        exit(-1);
+        //Retardo aleatorio entre 0.1 y 0.5 segs
+
+        int retardo = 100000 + rand() % 400000;  
+        usleep(retardo);
+
+        //Preparacion de mensaje
+
+        mensaje.tipo = 1;
+        snprintf(mensaje.cadena, sizeof(mensaje.cadena), "Dato N°:%d", i);
+        printf("[PRODUCTOR] %s [Retardo] %d\n", mensaje.cadena, retardo / 1000);
+
+        // Envio de mensaje a la cola clave 246
+
+        if (msgsnd(msqid, &mensaje, longitud, 0) == -1)
+        {
+            printf("Error al enviar el mensaje a la cola de mensajes");
+            exit(-1);
+        }
+
     }
-    
 
     return 0;
 }
